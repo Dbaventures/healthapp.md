@@ -5,4 +5,6 @@ They will get supplies if necessary
 They eill get referral if necessary
 They will get prescriptions if necessary
 The prescriptions will be filled and mailed or delivered 
+It will be test run in Africa first
+It must help people to get better
 
